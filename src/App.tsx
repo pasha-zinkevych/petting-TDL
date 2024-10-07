@@ -102,8 +102,8 @@ function App() {
     <div className="App">
       <AppBar position="static" color="info">
         <Toolbar>
-          <Typography variant="h6">Gavnische</Typography>
-          <Button color="inherit"> Gavnin</Button>
+          <Typography variant="h6">Navigating the b</Typography>
+          <Button color="inherit"> (mama mia)</Button>
         </Toolbar>
       </AppBar>
       <Container fixed>
